@@ -1,0 +1,7 @@
+# 試作の間は検索エンジンに登録させない。本番公開時に下の3行と入れ替える。
+# User-agent: *
+# Allow: /
+# Sitemap: https://lua-makuhari.jp/sitemap.xml
+
+User-agent: *
+Disallow: /
